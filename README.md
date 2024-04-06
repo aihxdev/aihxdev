@@ -16,20 +16,9 @@
   
 
 
-
 ### learning  
 - learning AI,ML still from 2020 :( its hard  🤖  
   
-
-
-
-### hacks
-  
-- hacker since 2020.🦾  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
