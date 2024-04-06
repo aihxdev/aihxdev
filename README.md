@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aihxdev/aihxdev.github.io/blob/sector-0/img/fav-icon.png" align="center" style="width: 100%" />
+<img src="https://github.com/aihxdev/aihxdev.github.io/blob/sector-0/img/fav-icon.png" align="center" style="width: 10%" />
 </div>  
   
 
@@ -167,6 +167,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
