@@ -6,7 +6,7 @@
 
 
 ### whois  
-### <div align="center">I'm aihxdev aiml,  since 2018!</div>  
+### <div align="center">I'm aihxdev aiml dev & engineer,  since 2018!</div>  
   
 
 
