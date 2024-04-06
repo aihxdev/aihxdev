@@ -12,7 +12,7 @@
 
 
 ### On air projects  
-- 🔭 I’m currently working on [Flash_Matrix]()  
+- 🔭 I’m currently working on [Flash_Matrix](https://github.com/aihxdev/flashmatrix)  
   
 
 
